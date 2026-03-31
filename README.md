@@ -59,7 +59,7 @@
 
 <td width="50%" align="center">
    <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,fast,nextjs,tailwind,langchain,scikit-learn,mathplotlib,pytorch" />
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,fastapi,nextjs,tailwind,langchain,scikitlearn,pytorch" />
 </td>
 
 
@@ -75,7 +75,7 @@
 
 <td width="50%" align="center">
     <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,jupyter,google colab" />
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,jupyter,googlecolab" />
 </td>
 </tr>
 </table>
