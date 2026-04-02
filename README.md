@@ -11,8 +11,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+    A passionate software engineering student specializing in full-stack development and AI/ML, with hands-on experience building production-grade applications using modern tech stacks including React, Node.js, Python, and cloud-native tools. Proven ability to architect scalable systems through impactful projects spanning fintech, social impact, and AI-driven platforms, backed by real-world internship experience in C programming and software design principles. A multiple hackathon winner with a strong problem-solving mindset, continuously pushing the boundaries of technology through innovative and purposeful engineering.
   </p>
 
   <p>
